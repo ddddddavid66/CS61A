@@ -8,3 +8,4 @@
 
 视频链接 【UCB CS 61A: Computer Programs, Fall 2020】 https://www.bilibili.com/video/BV1s3411G7yM/?p=22&share_source=copy_web&vd_source=86ef63de72ca258dc94e214b67d18d00
 
+测试ok的时候 只需要 加 --local  就可以本地使用了 python3 ok ... --local 
